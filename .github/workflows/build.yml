@@ -15,7 +15,6 @@ jobs:
         run: |
           sudo apt-get update -qy
           sudo apt-get install aidl -y
-        # You might need to adapt this for other package managers like yum or brew
 
       # Used to cache dependencies with a timeout
       - name: Get Date
