@@ -18,7 +18,7 @@ package.domain = org.test
 source.dir = .
 
 # (list) Source files to include (leave empty to include all the files)
-source.include_exts = py,png,jpg,kv,atlas,json
+source.include_exts = py,png,jpg,json
 
 # (list) List of inclusions using pattern matching
 #source.include_patterns = assets/*,images/*.png
@@ -75,7 +75,7 @@ orientation = portrait
 # author = © Copyright Info
 
 # Kivy version to use
-osx.kivy_version = 2.2.0
+osx.kivy_version = 2.2.1
 
 #
 # Android specific
